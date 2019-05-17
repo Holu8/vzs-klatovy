@@ -11,6 +11,8 @@
 		<div class="wrap">
 			<div class="footer-left">
 				<?php if(dynamic_sidebar('footer-1')) : else : endif; ?>
+				Vodní záchranná služba ČČK 
+				Klatovy
 			</div>
 
 			<span class="footer-right">Copyright &copy; <a href="https://www.vzs.cz" target="_blank">www.vzs.cz</a> <?php echo date('Y'); ?></span>
