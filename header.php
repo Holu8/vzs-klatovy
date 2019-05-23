@@ -11,6 +11,7 @@
 	<link rel="icon" type="image/svg+xml" href="<?php echo BASE_URL; ?>/favicon.svg" sizes="any">
 	<title><?php wp_title( '|', true, 'right' ); bloginfo('blockname'); ?></title>
 	<?php wp_head(); ?>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 	</head>
 	<body <?php body_class(); ?>>
 
