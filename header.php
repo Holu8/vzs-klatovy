@@ -6,7 +6,7 @@
 	<meta http-equiv="cleartype" content="on">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="<?php bloginfo('stylesheet_url'); ?>" media="screen" rel="stylesheet" type="text/css">
-	<script src="<?php echo BASE_URL; ?>/js/respond_menu.js"></script>
+	<script src="<?php echo BASE_URL; ?>/js/jquery-1.11.min.js"></script>
 	<link rel="shortcut icon" type="image/x-icon" href="<?php echo BASE_URL; ?>/favicon.ico">
 	<link rel="icon" type="image/svg+xml" href="<?php echo BASE_URL; ?>/favicon.svg" sizes="any">
 	<title><?php wp_title( '|', true, 'right' ); bloginfo('blockname'); ?></title>
