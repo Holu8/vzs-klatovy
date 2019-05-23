@@ -6,7 +6,7 @@
               
                 <h1>404 / Nenalezeno</h1>
 
-               <p>Požadovaná stránka nebyla nalezena.</p>
+               <h2>Jejda, vypadá to, že se něco porouchalo. Nebo možná tady taky nikdy nic nebylo. Máte podezření, že by tady mělo něco být? V tom případě nás neváhejte kontaktovat.</h2>
 
            
 
