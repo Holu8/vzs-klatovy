@@ -172,7 +172,7 @@ ul.menu li>a:hover {color: #f9b435 !important;}
 .menu>li.image>a {padding-left: 50px;}
 
 .menu>li.photo {background-image: url(extras/image.svg)}
-.menu>li.file {background-image: url(extras/file-text.png)}
+.menu>li.dokumenty {background-image: url(extras/file-text.png)}
 
 li.widget {list-style-type: none; margin-bottom: 1em;}
 
