@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta http-equiv="cleartype" content="on">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="<?php bloginfo('stylesheet_url'); ?>" media="screen" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="style.css?v=1.1">
 	<link rel="shortcut icon" type="image/x-icon" href="<?php echo BASE_URL; ?>/favicon.ico">
 	<link rel="icon" type="image/svg+xml" href="<?php echo BASE_URL; ?>/favicon.svg" sizes="any">
 	<title><?php wp_title( '|', true, 'right' ); bloginfo('blockname'); ?></title>
