@@ -173,7 +173,7 @@ ul.menu li>a:hover {color: #f9b435 !important;}
 
 .menu>li.photo {background-image: url(extras/image.svg)}
 .menu>li.dokumenty {background-image: url(extras/file-text.png)}
-.menu>li.dokumentysvg {background-image: url(extras/file-text.svg); height: 20px; width: 20px;}
+.menu>li.dokumentysvg {background-image: url(extras/file-text.svg)}
 
 li.widget {list-style-type: none; margin-bottom: 1em;}
 
