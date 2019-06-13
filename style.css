@@ -171,9 +171,9 @@ ul.menu li>a:hover {color: #f9b435 !important;}
 .menu>li.image {background-position: 20px center; background-repeat: no-repeat;}
 .menu>li.image>a {padding-left: 50px;}
 
-.menu>li.member {background-image: url(extras/zralok.svg)}
+.menu>li.member {background-image: url(extras/file-text.svg); height: 20px; width: 20px}
 .menu>li.photo {background-image: url(extras/image.svg)}
-.menu>li.file {background-image: url(extras/file-text.svg); height: 20px; width: 20px}
+.menu>li.file {background-image: url(extras/zralok.svg)}
 
 li.widget {list-style-type: none; margin-bottom: 1em;}
 
