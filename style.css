@@ -2,9 +2,8 @@
 Theme Name: VZS
 Theme URI: http: //www.vzs.cz/
 Description: Theme for VZS
-Author: Jakub Mottl
-Version: 2.0 
-Tags: red, blue, white
+Author: Jan Lukš
+Version: 3.0 
 */
 
 @import url(css/bootstrap-theme.min.css);
@@ -243,6 +242,55 @@ li.widget {list-style-type: none; margin-bottom: 1em;}
 	.footer-right {float: none;}
 }
 .footer .wrap {padding: 30px 0;}
+
+.upw-posts .entry-title {
+	font-size: 16px;
+	margin-bottom: -15px;
+	text-decoration: underline;
+}
+
+.upw-after, .upw-before {
+	text-align: center;
+}
+
+.custom_html-3 {
+	align-content: center;
+	max-width: 250px;
+}
+
+.custom-html-widget {
+	align-content: center;
+}
+
+#calendar  {
+	width: 100%;
+}
+
+.error404 .main-content {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h1:after {
+	margin: 0 auto;
+}
+
+#text-center {
+	text-align: center;
+}
+
+@media(min-width: 767px) {
+.cpage {
+	margin-top: 190px;
+}
+}
+
+table {
+	word-break: break-all;
+}
 
 /*body > footer ~ div {display: none}*/
 /*body > div#wpadminbar {display: block}*/
